@@ -13,8 +13,8 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Hell-Blaze/RAG_miniProject.git
+    cd "path to your directory"/RAG_miniProject
     ```
 
 2. **Install Docker**: 
