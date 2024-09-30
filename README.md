@@ -79,8 +79,6 @@ This project is in its early stages, serving as a lightweight research assistant
 ## Contribution
 This project is educational, and any suggestions or modifications to improve the application are highly welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
-## License
-This project does not currently have a license and is intended for educational purposes only.
 
 ### Notes:
 - Replace `YOUR_USERNAME` and `your-repo-name` in the clone URL with your actual GitHub username and repository name.
