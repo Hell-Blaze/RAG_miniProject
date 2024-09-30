@@ -26,6 +26,11 @@ Follow these steps to set up and run the application locally:
    GEMINI_API_KEY= 'your_gemini_key'
    PW_KEY= 'your_pathway_api_key'
    ```
+   You can get pathway key https://pathway.com/features and paste it below in the app.py file.
+   ```bash
+   pw.set_license_key("demo-license-key-with-telemetry")
+   ```
+   To use Pathway Community, comment out the above line.
 
 5. **Integrate API Keys**: 
    Ensure the keys are integrated into the `app.py` file by referencing the `.env` file.
@@ -56,7 +61,7 @@ Follow these steps to set up and run the application locally:
 
 9. **Access the Application**:
     Open your web browser and navigate to the address shown in the terminal (e.g., http://localhost:5001).
-    If the ports are not available then assign a free port and make necessary changes in the web.py.
+    If the ports are not available then assign a free port and make necessary changes in the web.py file.
 
 10. **Refer the video instructions**:
     A video tutorial is also available in the repository. The video is based on windows environment so if you are using windows you can refer it. 
